@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://raw.githubusercontent.com/lmiguelm26/Tibiaclient/main/launcher_config.json",
+	"newClientUrl" : "https://github.com/lmiguelm26/Tibiaclient/releases/download/2023/Tibiaclien.zip",
 	"clientExecutable": "client.exe"
 }
