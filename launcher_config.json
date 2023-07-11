@@ -1,0 +1,19 @@
+{
+	"clientVersion": "13",
+	"launcherVersion": "1.5",
+	"replaceFolders": false,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/dudantas/CanaryLauncherUpdate/releases/download/download-files/client-to-update.zip",
+	"clientExecutable": "client.exe"
+}
